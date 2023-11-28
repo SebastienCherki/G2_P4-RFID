@@ -1,7 +1,3 @@
-___
-Notre répo Github : [Projet 4](https://github.com/SebastienCherki/Projet-4-RFID)
-___
-
 # Projet-4-RFID
 
 ### Vidéo de présenttaion : 
